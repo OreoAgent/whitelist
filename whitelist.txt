@@ -23,4 +23,3 @@ Yuro_
 test
 6839585
 Vanja92
-banana
